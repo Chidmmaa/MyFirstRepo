@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+My name is Blessing Berko, and I’m a passionate and resilient young woman from Africa. 
+I’m currently exploring the exciting world of technology with a focus on backend development and CRM.
+My journey began through the TECH4girls program and continued with valuable training from ALX and HACSA, where I developed skills in JavaScript, Node.js, and PostgreSQL.
+Beyond tech, I’m also a virtual assistant, customer relationship specialist, and a firm believer in girl power.
+I’ve worked on various projects involving data collection, reporting, and client support.
+I love learning new things and utilizing technology to develop practical solutions that make a meaningful impact in the real world.
